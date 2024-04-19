@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "90802189a255107a",
+    "type": "split",
+    "children": [
+      {
+        "id": "afbc7be13349287c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae28cb9012ab4ef",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "database/docs/Cases"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cc99e54016a55b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8dffcc62e2a780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9896471096547665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1347749976cc930",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6738cb9586c76f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "628a59ef590a5d85",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5e88b4e9dea94e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b453795319bcca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ccd94537a65bfc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef14da6e667d7ddd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d456d272223b280e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6a6cb7e1739ce41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4899510fd4a36a85",
+            "type": "leaf",
+            "state": {
+              "type": "setup-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-second-brain:Open S2B Chat": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "628a59ef590a5d85",
+  "lastOpenFiles": [
+    "database/docs/Cases/Cases.md",
+    "database/docs/Objectives/Telesis Evolution Graph.md",
+    "database/docs/Objectives/DCO-IDCARDS.md",
+    "database/docs/Objectives/Events/Events.md",
+    "database/docs/Objectives/Events/2023-05-09.md",
+    "database/docs/Objectives/Oasis Bootstrap.md",
+    "database/docs/Objectives/Objectives.md",
+    "Untitled.canvas",
+    "2024-04-19.md",
+    "Excalidraw/Drawing 2024-04-19 15.19.13.excalidraw.md",
+    "Excalidraw",
+    "database/docs/Projects/Oasis/Sub-systems/Sub-systems.md",
+    "database/docs/Projects/Oasis/Oasis.md",
+    "database/docs/Projects/Solid State Cooling Module/Solid State Cooling Module.md",
+    "database/docs/Projects/Xion News/Xion News.md",
+    "database/docs/Projects/Projects.md",
+    "database/docs/Scenarios/Prospects.md",
+    "database/docs/Scenarios/Scenarios.md",
+    "Spaces",
+    "database/docs/Meta/Operandi/Distributed Cybernetic Organization.md",
+    "database/docs/index.md",
+    "database/docs/Meta/Operandi/A Specification for Governing Bodies of the New World Order.md",
+    "database/docs/Projects/Oasis/Sub-systems/Electromagnetic Transducer.md",
+    "database/docs/Projects/Veritas/Veritas.md",
+    "database/docs/Untitled",
+    "database/docs/Projects/Veritas",
+    "database/docs/Projects/Blakprint/Architecture.md",
+    "database/docs/Projects/Blakprint/Application.md"
+  ]
+}
