@@ -1,0 +1,11 @@
+```mermaid
+
+graph TB
+
+ INTERCEPTOR["IO"]
+ PERCEPTOR["OIO"]
+ COMPONENT["Component"]
+
+ COMPONENT --> PERCEPTOR
+ COMPONENT --> INTERCEPTOR
+```
