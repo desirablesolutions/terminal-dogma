@@ -1,0 +1,6 @@
+Cases/
+Meta/
+Media/
+.space
+.makemd
+.trash
