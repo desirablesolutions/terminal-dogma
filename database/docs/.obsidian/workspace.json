@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Services/Web Development/Full Stack Application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53bd6464cc5cf384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Desir Tech/Duke Jazzy/Real Book/Christmas/A Holly Jolly Christmas.md",
+                "file": "Projects/Oasis/Schemes/Autonomous Recreational Vehicle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 323.5
   },
   "right": {
     "id": "887c02a1b61d1969",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/Desir Tech/Duke Jazzy/Real Book/Christmas/A Holly Jolly Christmas.md",
+                "file": "Projects/Oasis/Schemes/Autonomous Recreational Vehicle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/Desir Tech/Duke Jazzy/Real Book/Christmas/A Holly Jolly Christmas.md",
+                "file": "Projects/Oasis/Schemes/Autonomous Recreational Vehicle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Desir Tech/Duke Jazzy/Real Book/Christmas/A Holly Jolly Christmas.md"
+                "file": "Projects/Oasis/Schemes/Autonomous Recreational Vehicle.md"
               }
             }
           }
@@ -173,8 +160,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "53bd6464cc5cf384",
+  "active": "9717904a4630f986",
   "lastOpenFiles": [
+    "Projects/J.A.R.V.E.I.S/J.A.R.V.E.I.S.md",
+    "Resources/Design/Visual/Colors/CSS Gradient.io.md",
+    "Services/Web Development/Full Stack Application.md",
+    "Resources/Design/Visual/Colors/Colors.md",
+    "Resources/Art/Music/Untitled.md",
+    "Organizations/Desir Tech/Duke Jazzy/Real Book/Christmas/A Holly Jolly Christmas.md",
     "Organizations/Desir Tech/Duke Jazzy/Meta/Flyers.md",
     "Research/Engineering/Engineering.md",
     "Meta/Media/desirablesolutions/desirablesolutions.md",
@@ -182,7 +175,6 @@
     "Resources/Science/Science.md",
     "Resources/Engineering/Testing/Testing.md",
     "Rolodex/Governments/Governments.md",
-    "Services/Web Development/Full Stack Application.md",
     "Services/Design/Brand Identity Kit.md",
     "Services/Dependability/Investigative Services.md",
     "Resources/Technology/Cybersecurity.md",
@@ -213,12 +205,7 @@
     "Meta/Excalidraw/Designs/Scenario_ A.R.E.P.O.dark.png",
     "Meta/Excalidraw/Designs/Scenario_ A.R.E.P.O.dark.svg",
     "Meta/Excalidraw/Designs/Scenario_ A.R.E.P.O.light.png",
-    "Meta/Excalidraw/Schematics/florida-home-floor-plan.md",
-    "Meta/Excalidraw/Schematics/power-phaser-module-blueprint.md",
-    "Meta/Excalidraw/Schematics/Drawing 2023-09-16 19.20.00.excalidraw.md",
     "Meta/Excalidraw/Meta-models/Systems Thinking/Balancing Feedback Loop.excalidraw",
-    "Resources/Art/Art.md",
-    "Resources/Design/Design.md",
     "Meta/Excalidraw/Meta-models/Communication/Situation-Behavior-Impact.excalidraw",
     "Meta/Excalidraw/Meta-models/Communication/Minto Pyramid.excalidraw"
   ]
