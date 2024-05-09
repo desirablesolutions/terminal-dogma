@@ -1,2 +1,0 @@
-# Randstad Staffing
-##### [[Experiences]]

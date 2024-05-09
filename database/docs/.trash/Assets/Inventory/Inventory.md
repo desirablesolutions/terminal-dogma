@@ -1,3 +1,0 @@
-
-# Desirable Solutions
-#### Inventory

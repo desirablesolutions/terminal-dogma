@@ -1,7 +1,0 @@
-# Patapan
-
-
-
-# Metadata
-> [!NOTE]
-> Content

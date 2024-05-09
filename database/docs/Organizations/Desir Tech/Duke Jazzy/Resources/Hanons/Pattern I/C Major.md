@@ -1,1 +1,0 @@
-https://www.hanon-online.com/the-virtuoso-pianist-part-i/hanon-exercise-n-1/

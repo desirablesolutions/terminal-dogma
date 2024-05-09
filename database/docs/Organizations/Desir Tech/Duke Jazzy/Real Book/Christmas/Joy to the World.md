@@ -1,1 +1,0 @@
-# Joy to the World

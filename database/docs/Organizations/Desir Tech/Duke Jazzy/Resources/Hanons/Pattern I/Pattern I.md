@@ -1,2 +1,0 @@
-# Pattern I
-##### [[Hanons]]

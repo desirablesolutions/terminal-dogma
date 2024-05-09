@@ -1,5 +1,0 @@
-# Bathroom A
-
-
-
-# Metadata

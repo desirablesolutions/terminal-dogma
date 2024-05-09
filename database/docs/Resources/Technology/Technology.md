@@ -1,3 +1,0 @@
-# Technology
-##### [[Resources/Resources|Resources]]
-

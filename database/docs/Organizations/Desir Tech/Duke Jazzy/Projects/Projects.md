@@ -1,7 +1,0 @@
-# Projects
-
-
-
-## Directory
-### [[Pianotes]]
-

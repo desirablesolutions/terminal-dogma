@@ -1,4 +1,0 @@
-# Yonder Airways
-
-> [!NOTE]
-> Content
