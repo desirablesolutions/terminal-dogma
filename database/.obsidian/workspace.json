@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "925dce15a7e6e74a",
+    "type": "split",
+    "children": [
+      {
+        "id": "833618d920727db6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a28aa7397633360",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2040cd80e80468e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9051720248f3df9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd6a27bd10f04128",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7e9a5103121b8e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1a1ffc5412cd0b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0f9d6673055fcb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "60d707819b358386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8a468602880f907",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e9f490db8940b6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8451f81994fcfeeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eed27d965439a756",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd6a27bd10f04128",
+  "lastOpenFiles": [
+    "content/Research/Engineering/Software/Testing/Meta-models/Administration/Cases/Closure/Farewell.md",
+    "content/Research/Engineering/Software/Testing/Meta-models/Administration/Cases/Closure/Closure.md",
+    "content/Research/Engineering/Software/Testing/Meta-models/Administration/Cases/Closure",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Untitled.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Untitled 8.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Untitled 7.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Untitled 6.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Untitled 5.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Untitled 4.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Untitled 3.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Pattern I.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/Db Major.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/C Major.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I/D Major.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Real Book/Classical/Fur Elise/Fur Elise.md",
+    "content/Organizations/Desir Tech/Duke Jazzy/Real Book/Classical/Fur Elise/Fur Elise - Level I.md",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/Van Inventory/Travel Equipment/Weaponry.md",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/Van Inventory/Travel Equipment/Untitled.canvas",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/Van Inventory/Travel Equipment/Travel Equipment.md",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/Van Inventory/Travel Equipment/Survival.md",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/Van Inventory/Travel Equipment/First Aid.md",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Power Train/Transmission.md",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Power Train/Radiator.md",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Power Train/Power Train.md",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Power Train/Exhaust.md",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Power Train/Engine.md",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Power Train/AC.md",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Handling/Tie Rods.md",
+    "content/Research/Engineering/Software/Testing/Meta-models/Administration/Cases",
+    "content/Organizations/Desir Tech/Duke Jazzy/Resources/Hanons/Pattern I",
+    "content/Organizations/Desir Tech/Duke Jazzy/Real Book/Classical/Fur Elise",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/Van Inventory/Travel Equipment",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/Van Inventory/context.mdb",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/gfhhfh/context.mdb",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Power Train",
+    "content/Organizations/Desir Designs/Valhalla/Causal Elements/Drivability/Handling",
+    "content/Research/Engineering/Software/Testing/Meta-models/Scope of Work",
+    "content/Organizations/Desir Designs/Valhalla/Supplies/Untitled Diagram.svg",
+    "content/Resources/Engineering/Mechanics/Untitled.canvas",
+    "content/Research/Engineering/Principles/Pasted image 20231016144646.png",
+    "content/Projects/Xion News/Data Sea/Pasted image 20231011124203.png",
+    "content/Projects/Xion News/Data Sea/Pasted image 20231011123424.png",
+    "content/Projects/Xion News/Data Sea/Pasted image 20231011123050.png",
+    "content/Meta/Media/xion news/xion-news-logo.png",
+    "content/Meta/Media/wtfmvmt/X-Orthogonal Capture of Woman in Sneakers Singing on Stage.jpg",
+    "content/Meta/Media/wtfmvmt/WTFMVMT-FULL-logo-transparent-background-WHITE.png",
+    "content/Meta/Media/wtfmvmt/WTFMVMT-logo-transparent-PURPLE.svg",
+    "content/Meta/Media/wtfmvmt/WTFMVMT-FULL-logo-transparent-background-WHITE.svg"
+  ]
+}
