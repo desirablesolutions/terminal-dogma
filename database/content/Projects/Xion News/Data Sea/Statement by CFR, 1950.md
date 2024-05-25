@@ -1,0 +1,2 @@
+**“We shall have world government whether or not you like it, by conquest or consent.”**  
+- _Statement by Council on Foreign Relations (CFR) member James Warburg to The Senate Foreign Relations Committee on February 17th, 1950_

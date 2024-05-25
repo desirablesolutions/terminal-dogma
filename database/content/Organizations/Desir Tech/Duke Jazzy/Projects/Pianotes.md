@@ -1,0 +1,7 @@
+# Pianotes
+
+
+
+# Metadata
+> [!NOTE]
+> Content
