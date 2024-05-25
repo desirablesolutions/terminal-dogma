@@ -13,7 +13,7 @@
   },
   "scripts": {
     "docs": "npx quartz build --serve -d docs",
-    "build": "npx quartz build",
+    "build": "chmod +x ./quartz/bootstrap-cli.mjs && npx quartz build",
 
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
