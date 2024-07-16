@@ -5,8 +5,8 @@
 	"elements": [
 		{
 			"type": "arrow",
-			"version": 105,
-			"versionNonce": 2109575706,
+			"version": 106,
+			"versionNonce": 1582478187,
 			"isDeleted": false,
 			"id": "8lwxP4LuCKtv9NJ8ytHRG",
 			"fillStyle": "hachure",
@@ -28,7 +28,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714180139360,
+			"updated": 1717007503708,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -53,8 +53,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 112,
-			"versionNonce": 1865957082,
+			"version": 113,
+			"versionNonce": 337579531,
 			"isDeleted": false,
 			"id": "Aml9egPPC3GNTB2olEK6b",
 			"fillStyle": "hachure",
@@ -76,7 +76,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714180139360,
+			"updated": 1717007503709,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -820,8 +820,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 226,
-			"versionNonce": 755355738,
+			"version": 230,
+			"versionNonce": 402534539,
 			"isDeleted": false,
 			"id": "uFPpg8S7LiMT_qZ0dh7C3",
 			"fillStyle": "hachure",
@@ -843,7 +843,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714180139361,
+			"updated": 1717007503709,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1339,6 +1339,53 @@
 					0
 				]
 			]
+		},
+		{
+			"id": "vsb9qH1JZVc7V3LFzMvKR",
+			"type": "arrow",
+			"x": 960,
+			"y": 760,
+			"width": 440,
+			"height": 60,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1100867371,
+			"version": 48,
+			"versionNonce": 328647749,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717007510761,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-440,
+					-60
+				]
+			],
+			"lastCommittedPoint": [
+				-440,
+				-60
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -1356,10 +1403,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -180.9684855143231,
-		"scrollY": 44.17709350585926,
+		"scrollX": -194.78258807842553,
+		"scrollY": -6.144221379206783,
 		"zoom": {
-			"value": 0.6000000000000001
+			"value": 0.65
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

@@ -6,5 +6,4 @@ _sort:
   field: rank
   asc: false
   group: false
-color: var(--mk-color-red)
 ---

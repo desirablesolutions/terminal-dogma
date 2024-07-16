@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e4237bdb16bd5281",
+        "id": "e289737f68e7dac0",
         "type": "tabs",
         "children": [
           {
-            "id": "53715e0612b2eed3",
+            "id": "3898f1bd41e7bad9",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "excalidraw",
               "state": {
-                "path": "Meta/Data"
+                "file": "Excalidraw/kpax.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "853a2594bf746d90",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Data/Data.md",
+                "file": "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Data/Data.md",
+                "file": "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Data/Data.md"
+                "file": "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md"
               }
             }
           }
@@ -159,54 +170,55 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d357d38ed256dd24",
+  "active": "853a2594bf746d90",
   "lastOpenFiles": [
-    "Meta/Meta.md",
+    "Excalidraw/kpax.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md",
+    "Meta/Excalidraw/Excalidraw.md",
+    "Excalidraw/Drawing 2024-07-04 15.50.55.excalidraw.md",
+    "Projects/Xion News/Data Sea/Data Sea.md",
+    "Projects/kpax/Untitled.canvas",
+    "Excalidraw/Drawing 2024-07-01 08.36.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-01 08.36.28.excalidraw.md",
+    "Projects/kpax/kpax.md",
+    "Projects/Blakprint/Blakprint.md",
+    "Projects/kpax",
     "Projects/Projects.md",
-    "Projects/WTFMVMT/WTFMVMT.md",
-    "Projects/Xion News/Xion News.md",
-    "Projects/J.A.R.V.E.I.S/J.A.R.V.E.I.S.md",
-    "Projects/Florida Home Arbitrage/Florida Home Arbitrage.md",
-    "Projects/Florida Home Arbitrage/Backyard.md",
-    "Projects/Florida Home Arbitrage/Bedroom B.md",
-    "Projects/Florida Home Arbitrage/Front Yard.md",
-    "Projects/Florida Home Arbitrage/Living Room.md",
-    "Projects/Florida Home Arbitrage/Qualifications.md",
-    "Projects/Florida Home Arbitrage/Prospects/Prospects.md",
-    "Organizations/Desir Designs/Desir Designs.md",
-    "Projects/Florida Home Arbitrage/Template.md",
-    "Projects/Florida Home Arbitrage/Bedroom A.md",
-    "Projects/Florida Home Arbitrage/Bathroom A.md",
-    "Projects/Florida Home Arbitrage/Garage.md",
-    "Projects/Florida Home Arbitrage/House Terms.md",
-    "Projects/Florida Home Arbitrage/Florida Sublease Template.md",
-    "Projects/Florida Home Arbitrage/Information.md",
-    "Projects/Florida Home Arbitrage/Kitchen.md",
-    "Projects/Florida Home Arbitrage/Listings.md",
-    "Projects/Florida Home Arbitrage/Master  Bedroom.md",
-    "Projects/Florida Home Arbitrage/Patio.md",
-    "Projects/Florida Home Arbitrage/Master Bathroom.md",
-    "Projects/Florida Home Arbitrage/Pros.md",
-    "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "Meta/Excalidraw/Designs/Connection Circle_ Operation Protagonist.excalidraw",
-    "Meta/Excalidraw/Designs/Concept Map_ Operations Process.excalidraw",
-    "Meta/Excalidraw/Designs/Balancing Feedback Loop for Parallel Asynchronous Management.dark.png",
+    "Resources/Resources.md",
+    "Meta/Media/blakprint/blakprint-transparent.png",
+    "Meta/Media/blakprint/blakprint-logo.png",
+    "Meta/Media/avidya/avidya-logo.png",
+    "Meta/Media/blakprint/blakprint.md",
+    "Meta/Media/Media.md",
+    "Meta/Excalidraw/Designs/Designs.md",
+    "Meta/Excalidraw/Meta-models/Communication/Situation-Behavior-Impact.excalidraw",
+    "Meta/Excalidraw/Meta-models/Systems Thinking/Reinforcing Feedback Loop.excalidraw",
+    "Meta/Excalidraw/Meta-models/Systems Thinking/Concept Map.excalidraw",
+    "Meta/Excalidraw/Meta-models/Systems Thinking/Connections Circle.excalidraw",
+    "Meta/Excalidraw/Meta-models/Systems Thinking/Balancing Feedback Loop.excalidraw",
+    "Meta/Excalidraw/Meta-models/Problem Solving/Ishikawa Diagram.excalidraw",
+    "Meta/Excalidraw/Meta-models/Decision Making/Cynefin Framework.excalidraw",
+    "Meta/Excalidraw/Meta-models/Decision Making/Eisenhower Matrix.excalidraw",
+    "Meta/Excalidraw/Meta-models/Decision Making/Hard Choice Model.excalidraw",
+    "Resources/Engineering/Testing/Powertrain System Ignition-to-Start Troubleshooting Test.md",
+    "Objectives/Telesis Evolution Graph.md",
+    "Objectives/Objectives.md",
+    "Research/Research.md",
     "Meta/Excalidraw/Designs/Balancing Feedback Loop for Parallel Asynchronous Management.dark.svg",
-    "Meta/Excalidraw/Designs/Balancing Feedback Loop for Parallel Asynchronous Management.excalidraw",
-    "Meta/Excalidraw/Designs/DCO Responsibility Gauge.excalidraw",
-    "Meta/Excalidraw/Designs/Eden Concept Map.excalidraw",
     "Meta/Excalidraw/Designs/PULSE Concept Map.dark.png",
-    "Meta/Excalidraw/Designs/Scenario_ A.R.E.P.O.dark.svg",
-    "Meta/Excalidraw/Designs/Scenario_ A.R.E.P.O.light.png",
-    "Meta/Excalidraw/Designs/Reinforcing Feedback Loop_ The Inversion Principle.excalidraw",
-    "Meta/Excalidraw/Designs/Scenario_ A.R.E.P.O.light.svg",
-    "Meta/Excalidraw/Meta-models/Problem Solving/Abstraction Ladder.excalidraw",
-    "Untitled.canvas",
-    "Meta/Excalidraw/Designs/PULSE Concept Map.light.svg",
     "Meta/Excalidraw/Designs/operation-design-strategy.light.png",
-    "Meta/Excalidraw/Designs/operation-design-strategy.light.svg"
+    "Meta/Excalidraw/Designs/operation-design-strategy.light.svg",
+    "Meta/Excalidraw/Designs/PULSE Concept Map.light.png",
+    "Meta/Excalidraw/Designs/PULSE Concept Map.light.svg",
+    "Meta/Excalidraw/Designs/PULSE Concept Map.dark.svg",
+    "Excalidraw/Drawing 2024-06-13 20.37.51.excalidraw.md",
+    "Meta/Excalidraw/Meta-models/Decision Making/Decision Making.md",
+    "Meta/Excalidraw/Meta-models/Communication/Communication.md",
+    "Organizations/Desir Foundation/A Declaration of World Peace.md",
+    "Meta/Data/Data.md",
+    "Organizations/Desir Foundation/Desir Foundation.md",
+    "Meta/Meta.md",
+    "Untitled.canvas"
   ]
 }
