@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e289737f68e7dac0",
+        "id": "4e72652448297c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "3898f1bd41e7bad9",
+            "id": "58ba0464dd0bf095",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/kpax.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "853a2594bf746d90",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md"
+                "file": "Excalidraw/nebuddchanezer.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "right": {
     "id": "887c02a1b61d1969",
@@ -103,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md",
+                "file": "Excalidraw/nebuddchanezer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md",
+                "file": "Excalidraw/nebuddchanezer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md"
+                "file": "Excalidraw/nebuddchanezer.md"
               }
             }
           }
@@ -170,17 +159,35 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "853a2594bf746d90",
+  "active": "5e1ee170a7782978",
   "lastOpenFiles": [
-    "Excalidraw/kpax.excalidraw.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2024-07-14 14.59.26.excalidraw.md",
-    "Meta/Excalidraw/Excalidraw.md",
+    "Excalidraw/kpax.md",
+    "Meta/Meta.md",
+    "Objectives/Telesis Evolution Graph.md",
+    "Objectives/Objectives.md",
+    "MACH_0.md",
+    "Excalidraw/human-instrumentality.md",
+    "Excalidraw/nebuddchanezer.md",
+    "Excalidraw/Drawing 2024-07-01 08.36.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-03 17.47.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-13 20.37.51.excalidraw.md",
     "Excalidraw/Drawing 2024-07-04 15.50.55.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
+    "Excalidraw/Scripts/Downloaded/ExcaliAI.md",
+    "Excalidraw/Drawing 2024-07-01 08.36.28.excalidraw.md",
+    "Untitled.md",
+    "Organizations/Organizations.md",
+    "Organizations/Desir Foundation/Abstract of Declaration of World Peace.pdf",
+    "Organizations/The Lyoko Project",
+    "Organizations/New folder",
+    "Rolodex/Invert Protagonists",
+    "Rolodex/New folder",
+    "Rolodex/Antagonists",
+    "Rolodex/Protagonists",
+    "Rolodex/Invert Antagonists",
+    "Meta/Excalidraw/Excalidraw.md",
     "Projects/Xion News/Data Sea/Data Sea.md",
     "Projects/kpax/Untitled.canvas",
-    "Excalidraw/Drawing 2024-07-01 08.36.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-01 08.36.28.excalidraw.md",
     "Projects/kpax/kpax.md",
     "Projects/Blakprint/Blakprint.md",
     "Projects/kpax",
@@ -193,17 +200,7 @@
     "Meta/Media/Media.md",
     "Meta/Excalidraw/Designs/Designs.md",
     "Meta/Excalidraw/Meta-models/Communication/Situation-Behavior-Impact.excalidraw",
-    "Meta/Excalidraw/Meta-models/Systems Thinking/Reinforcing Feedback Loop.excalidraw",
-    "Meta/Excalidraw/Meta-models/Systems Thinking/Concept Map.excalidraw",
-    "Meta/Excalidraw/Meta-models/Systems Thinking/Connections Circle.excalidraw",
-    "Meta/Excalidraw/Meta-models/Systems Thinking/Balancing Feedback Loop.excalidraw",
-    "Meta/Excalidraw/Meta-models/Problem Solving/Ishikawa Diagram.excalidraw",
-    "Meta/Excalidraw/Meta-models/Decision Making/Cynefin Framework.excalidraw",
-    "Meta/Excalidraw/Meta-models/Decision Making/Eisenhower Matrix.excalidraw",
-    "Meta/Excalidraw/Meta-models/Decision Making/Hard Choice Model.excalidraw",
     "Resources/Engineering/Testing/Powertrain System Ignition-to-Start Troubleshooting Test.md",
-    "Objectives/Telesis Evolution Graph.md",
-    "Objectives/Objectives.md",
     "Research/Research.md",
     "Meta/Excalidraw/Designs/Balancing Feedback Loop for Parallel Asynchronous Management.dark.svg",
     "Meta/Excalidraw/Designs/PULSE Concept Map.dark.png",
@@ -211,14 +208,6 @@
     "Meta/Excalidraw/Designs/operation-design-strategy.light.svg",
     "Meta/Excalidraw/Designs/PULSE Concept Map.light.png",
     "Meta/Excalidraw/Designs/PULSE Concept Map.light.svg",
-    "Meta/Excalidraw/Designs/PULSE Concept Map.dark.svg",
-    "Excalidraw/Drawing 2024-06-13 20.37.51.excalidraw.md",
-    "Meta/Excalidraw/Meta-models/Decision Making/Decision Making.md",
-    "Meta/Excalidraw/Meta-models/Communication/Communication.md",
-    "Organizations/Desir Foundation/A Declaration of World Peace.md",
-    "Meta/Data/Data.md",
-    "Organizations/Desir Foundation/Desir Foundation.md",
-    "Meta/Meta.md",
     "Untitled.canvas"
   ]
 }
