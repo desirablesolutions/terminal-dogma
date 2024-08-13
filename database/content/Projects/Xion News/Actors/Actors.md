@@ -11,10 +11,10 @@
 
 
 ## 🗺️Directory
-### [[Invert Antagonists]]
+### [[Projects/Xion News/Actors/Invert Antagonists]]
 ### [[Invert Protagonists]]
 ### [[Protagonists]]
-### [[Antagonists]]
+### [[Projects/Xion News/Actors/Antagonists]]
 
 
 # Metadata

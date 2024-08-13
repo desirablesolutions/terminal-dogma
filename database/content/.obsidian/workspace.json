@@ -11,9 +11,11 @@
             "id": "58ba0464dd0bf095",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/nebuddchanezer.md"
+                "file": "TERMINAL_DOGMA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "887c02a1b61d1969",
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/nebuddchanezer.md",
+                "file": "TERMINAL_DOGMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/nebuddchanezer.md",
+                "file": "TERMINAL_DOGMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/nebuddchanezer.md"
+                "file": "TERMINAL_DOGMA.md"
               }
             }
           }
@@ -145,6 +147,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -154,29 +158,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph:3D Graph": false,
       "github-sync:Sync with Remote": false,
-      "git-integration:Open git menu": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "remotely-save:Remotely Save": false
+      "git-integration:Open git menu": false
     }
   },
-  "active": "5e1ee170a7782978",
+  "active": "431e06a578d1ff25",
   "lastOpenFiles": [
+    "Organizations/Desir Designs/Portfolio/Portfolio.md",
     "Excalidraw/kpax.md",
+    "Organizations/Organizations.md",
+    "TERMINAL_DOGMA.md",
+    "Excalidraw/logos.md",
+    "Projects/J.A.R.V.E.I.S/Meta.md",
+    "Projects/J.A.R.V.E.I.S/J.A.R.V.E.I.S.md",
+    "Projects/kpax/kpax.md",
+    "Projects/Oasis/Meta/Description.md",
+    "Projects/Oasis/Meta/Goal.md",
+    "Projects/Oasis/Meta/Meta.md",
+    "Projects/Oasis/Oasis.md",
+    "Projects/Projects.md",
+    "Rolodex/Invert Antagonists/Invert Antagonists.md",
+    "Rolodex/Antagonists/Antagonists.md",
+    "Rolodex/Rolodex.md",
+    "Services/Services.md",
+    "Services/Development/Full Stack Application.md",
+    "Excalidraw/nebuddchanezer.md",
+    "Organizations/Desir Tech/Markets/Markets.md",
+    "Projects/Blakprint/Blakprint.md",
     "Meta/Meta.md",
+    "Cases/Cases.md",
+    "Excalidraw/human-instrumentality.md",
     "Objectives/Telesis Evolution Graph.md",
     "Objectives/Objectives.md",
-    "MACH_0.md",
-    "Excalidraw/human-instrumentality.md",
-    "Excalidraw/nebuddchanezer.md",
-    "Excalidraw/Drawing 2024-07-01 08.36.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-03 17.47.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-13 20.37.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-04 15.50.55.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
-    "Excalidraw/Scripts/Downloaded/ExcaliAI.md",
-    "Excalidraw/Drawing 2024-07-01 08.36.28.excalidraw.md",
-    "Untitled.md",
-    "Organizations/Organizations.md",
     "Organizations/Desir Foundation/Abstract of Declaration of World Peace.pdf",
     "Organizations/The Lyoko Project",
     "Organizations/New folder",
@@ -185,23 +198,12 @@
     "Rolodex/Antagonists",
     "Rolodex/Protagonists",
     "Rolodex/Invert Antagonists",
-    "Meta/Excalidraw/Excalidraw.md",
-    "Projects/Xion News/Data Sea/Data Sea.md",
     "Projects/kpax/Untitled.canvas",
-    "Projects/kpax/kpax.md",
-    "Projects/Blakprint/Blakprint.md",
     "Projects/kpax",
-    "Projects/Projects.md",
-    "Resources/Resources.md",
     "Meta/Media/blakprint/blakprint-transparent.png",
     "Meta/Media/blakprint/blakprint-logo.png",
     "Meta/Media/avidya/avidya-logo.png",
-    "Meta/Media/blakprint/blakprint.md",
-    "Meta/Media/Media.md",
-    "Meta/Excalidraw/Designs/Designs.md",
     "Meta/Excalidraw/Meta-models/Communication/Situation-Behavior-Impact.excalidraw",
-    "Resources/Engineering/Testing/Powertrain System Ignition-to-Start Troubleshooting Test.md",
-    "Research/Research.md",
     "Meta/Excalidraw/Designs/Balancing Feedback Loop for Parallel Asynchronous Management.dark.svg",
     "Meta/Excalidraw/Designs/PULSE Concept Map.dark.png",
     "Meta/Excalidraw/Designs/operation-design-strategy.light.png",

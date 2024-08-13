@@ -6,16 +6,9 @@ color: "#f7b731"
 
 ![[Meta/Media/desirablesolutions/desirablesolutions-logo.png]]
 
-## Sectors
-### [[Governments]]
-### Media Influencers
-### Technologists
-### Artists
-### Churches
-### Charities
-### Temples
-### Mosques
-### Synaogoues 
+## Divisions
+
+## [[]]
 
 
 # Metadata
